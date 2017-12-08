@@ -48,4 +48,4 @@ so that we can arrange a loaner laptop for you.
 As preparation for the course, please create a [Github](https://github.com/)
 account. **You will need this account to log into the system**. Please [send your user-name to Ariel ASAP](mailto:arokem@gmail.com)
 
-### [Jupyterhub](XXX)
+### [Jupyterhub](http://a53a61e5edbc411e7b77006c54647f9f-827012972.us-west-2.elb.amazonaws.com)
