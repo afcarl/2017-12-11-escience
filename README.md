@@ -9,19 +9,21 @@ tools and practices used in data science to analyze tabular datasets
 aspects of the work, but we will also discuss communicating about data (data
 visualization) and statistical methodology (machine learning).
 
+## [Collaborative notes](https://docs.google.com/document/d/1-oDVpArxmvLE_kOFNLxvwI-1vLU7vwxIESJlR73PnfA/edit?usp=sharing)
+
 ## Schedule
 
 ### Day 1
 
 9 AM - noon : Software revision control with git and collaboration with Github
 
-[materials](http://swcarpentry.github.io/git-novice/)
+<a href="http://swcarpentry.github.io/git-novice/">Materials</a>
 
 noon - 1 PM : lunch
 
 1 PM - 4:30 PM : Programming in Python
 
-[materials](http://swcarpentry.github.io/python-novice-gapminder/)
+<a href="http://swcarpentry.github.io/python-novice-gapminder/">Materials</a>
 
 ### Day 2
 
@@ -30,8 +32,7 @@ noon - 1 PM : lunch
 noon - 1 PM : lunch
 
 1 PM - 3:30 PM : Machine learning
-
-[materials](https://github.com/jakevdp/sklearn_tutorial)
+<a href="https://github.com/jakevdp/sklearn_tutorial)" target="_blank">Materials</a>
 
 3:30 PM - 4:30 PM : Putting it all together: the data science workflow
 
